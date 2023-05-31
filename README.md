@@ -10,10 +10,10 @@
 	
 
 
-### I'm a Python Django Developer, Teacher and Researcher!
-- 🔭 I have got different certification Courses.
-- 🔭 I’m currently working as Frelancer.
--🌱 I’m currently learning Backend Engineering
+### We are Developers and Researchers!
+- 🔭 We are providing different kind of Certificates.
+- 🔭 We are currently mentoring 1000+ mentee.
+-🌱 We are providing Frontend & Backend Developing Services
 -🤝 I’m looking for help with finding projects to contribute to!
 -💬 Ask me about open source, web development, and React as well as community building.
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
