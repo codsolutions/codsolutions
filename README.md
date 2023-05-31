@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 
@@ -7,8 +7,6 @@
 <div align="center">
     <h1> Hi there, I'm codesolutions👋<a href="#"></h1>
   </div>
-<p align="center">
-<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=together+improve;Join+and+shine with us;Front+End+Web+Developer;Backend+Developers+Python+Django;&center=true&width=500&height=50"></a>
 	
 
 
